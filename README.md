@@ -2,7 +2,7 @@
 
 :computer: Self-taught programming student
 
-:gear: UAV & UAS Systems Maintenance and Repair Technician
+:gear: Junior Data Analyst | AI Trainee | UAS Technical Validation Specialist at ARQUIMEA | Power BI, SQL & Python
 
 ## Vias de contacto
 
